@@ -50,6 +50,8 @@ Input Features: spectrogram
 Read the Notebook instructions to properly change directories paths and run the notebook correctly.
 
 All the data used in this work have been stored in Goodle Drive, so they can be mount directly from the notebook. 
+Change the path if you have the data saved on you local machine or some other clouds. 
+
 
 ## Clone or Download the repository 
 
