@@ -13,7 +13,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-The following modules are necessary to run the notebook: numpy, essentia-tensorflow, json, sklearn, matplotlib and seaborn.
+The following modules are necessary to run the notebook: numpy, essentia, sklearn, matplotlib and seaborn.
 
 All the modules will be directly imported running the notebook.
 
@@ -23,11 +23,27 @@ Essentia will be installed directly running the notebook.
 
 The notebook can be directly open from Google Colab: 
 
-LOGMEL - LH [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RonFrancesca/MIR-Audio-Onset-Detection-CRNN/blob/master/MIRProject_LH_LogMel.ipynb)
+#### LH_LogMel
+Dataset used: Leveau + Holzapfel
+Input Features: Log normalized Mel Band spectrogram 
 
-spect - lh [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RonFrancesca/MIR-Audio-Onset-Detection-CRNN/blob/master/MIRProject_LH_Spectrogram.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RonFrancesca/MIR-Audio-Onset-Detection-CRNN/blob/master/MIRProject_LH_LogMel.ipynb)
 
-L - LOGMEL [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RonFrancesca/MIR-Audio-Onset-Detection-CRNN/blob/master/MIRProject_Leveau_LogMel.ipynb)
+#### LH_Spectrogram 
+Dataset used: Leveau + Holzapfel
+Input Features: spectrogram  
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RonFrancesca/MIR-Audio-Onset-Detection-CRNN/blob/master/MIRProject_LH_Spectrogram.ipynb)
+
+#### Leveau_LogMel
+Dataset used: Leveau
+Input Features: Log normalized Mel Band spectrogram 
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RonFrancesca/MIR-Audio-Onset-Detection-CRNN/blob/master/MIRProject_Leveau_LogMel.ipynb)
+
+#### Leveau_spectrogram
+Dataset used: Leveau
+Input Features: spectrogram 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RonFrancesca/MIR-Audio-Onset-Detection-CRNN/blob/master/MIRProject_Leveau_spectrogram.ipynb)
 
