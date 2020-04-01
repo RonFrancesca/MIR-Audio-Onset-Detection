@@ -23,13 +23,13 @@ Essentia will be installed directly running the notebook.
 
 The notebook can be directly open from Google Colab: 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RonFrancesca/MIR-Audio-Onset-Detection-CRNN/blob/master/MIRProject_LH_LogMel.ipynb)
+LOGMEL - LH [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RonFrancesca/MIR-Audio-Onset-Detection-CRNN/blob/master/MIRProject_LH_LogMel.ipynb)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/https://github.com/RonFrancesca/MIR-Audio-Onset-Detection-CRNN/blob/master/MIRProject_Leveau_LogMel.ipynb)
+spect - lh [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RonFrancesca/MIR-Audio-Onset-Detection-CRNN/blob/master/MIRProject_LH_Spectrogram.ipynb)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/https://github.com/RonFrancesca/MIR-Audio-Onset-Detection-CRNN/blob/master/MIRProject_Leveau_spectrogram.ipynb)
+L - LOGMEL [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RonFrancesca/MIR-Audio-Onset-Detection-CRNN/blob/master/MIRProject_Leveau_LogMel.ipynb)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/https://github.com/RonFrancesca/MIR-Audio-Onset-Detection-CRNN/blob/master/MIRProject_LH_Spectrogram.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RonFrancesca/MIR-Audio-Onset-Detection-CRNN/blob/master/MIRProject_Leveau_spectrogram.ipynb)
 
 Read the Notebook instructions to properly change directories paths and run the notebook correctly.
 
