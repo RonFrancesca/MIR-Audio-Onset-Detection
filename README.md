@@ -1,4 +1,4 @@
-# MEXPLORING AUDIO ONSET DETECTION WITH DEEP LEARNING 
+# EXPLORING AUDIO ONSET DETECTION WITH DEEP LEARNING 
 
 This work aims to further explore the task of Audio On-set Detection with deep learning, presenting a novel Convolutional  Recurrent  Neural  Network  model  for  musicalonset  detection.  In  particular,  the  proposed  architecturehas been trained with different hyper-parameter tuning andCNN kernel filters size in order to find the best combina-tion of parameters in terms of performances. Two differentdataset have been used for the scope of the project, *Leveau* dataset [1] and the merge of it with *Holzapfel* dataset [2].The model has been been trained with two different input, spectrogram  and log-normalized  Mel  Band  spectrogram. 
 
@@ -66,7 +66,7 @@ It contains a Google Colab notebook, please read the Notebook instruction to pro
 
 Command to clone the repository:
 ```
-$ git clone https://github.com/RonFrancesca/AnalysisEssentiamodels-MTGJamendodataset.git
+$ git clone https://github.com/RonFrancesca/MIR-Audio-Onset-Detection-CRNN.git
 ```
 Once the notebook is installed, open it from google colab and follow the instruction to configure it correctly. 
 
