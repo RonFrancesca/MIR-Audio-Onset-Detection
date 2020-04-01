@@ -23,7 +23,6 @@ Essentia will be installed directly running the notebook.
 
 The notebook can be directly open from Google Colab: 
 
-
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/https://github.com/RonFrancesca/MIR-Audio-Onset-Detection-CRNN/blob/master/MIRProject_LH_LogMel.ipynb)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/https://github.com/RonFrancesca/MIR-Audio-Onset-Detection-CRNN/blob/master/MIRProject_Leveau_LogMel.ipynb)
