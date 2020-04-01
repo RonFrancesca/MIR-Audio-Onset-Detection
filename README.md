@@ -19,6 +19,12 @@ All the modules will be directly imported running the notebook.
 
 Essentia will be installed directly running the notebook.
 
+### Dataset 
+
+You can download the *Leveau* dataset from this link: http://www.tsi.telecom-paristech.fr/aao/en/2011/07/13/onset_leveau-a-database-for-onset-detection/
+
+Plase, contact the authors of the paper [2] to download the *Holzapfel* dataset. 
+
 ## Open the notebok in Google Colab
 
 The notebook can be directly open from Google Colab: 
