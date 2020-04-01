@@ -1,4 +1,11 @@
-# MIR-Audio-Onset-Detection-CRNN
+# MEXPLORING AUDIO ONSET DETECTION WITH DEEP LEARNING 
+
+This work aims to further explore the task of Audio On-set Detection with deep learning, presenting a novel Convolutional  Recurrent  Neural  Network  model  for  musicalonset  detection.  In  particular,  the  proposed  architecturehas been trained with different hyper-parameter tuning andCNN kernel filters size in order to find the best combina-tion of parameters in terms of performances. Two differentdataset have been used for the scope of the project, *Leveau* dataset [1] and the merge of it with *Holzapfel* dataset [2].The model has been been trained with two different input, spectrogram  and log-normalized  Mel  Band  spectrogram. 
+
+[1]: http://www.tsi.telecom-paristech.fr/aao/en/2011/07/13/onset_leveau-a-database-for-onset-detection/
+[2]
+> André Holzapfel, Yannis Stylianou, Ali C Gedik, andBarı ̧s Bozkurt. Three dimensions of pitched instrumentonset detection.IEEE Transactions on Audio, Speech,and Language Processing, 18(6):1517–1527, 2009
+
 
 ## Getting Started
 
